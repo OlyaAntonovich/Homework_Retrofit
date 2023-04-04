@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Homework_Retrofit</string>
     <string name="button_name">Click</string>
+    <string name="button_name_2">Post</string>
+    <string name="name_hint">name</string>
+    <string name="job_hint">job</string>
 
 </resources>
